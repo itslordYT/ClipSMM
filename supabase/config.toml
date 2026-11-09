@@ -1,0 +1,5 @@
+[functions.cheapestsmm-proxy]
+verify_jwt = true
+
+[functions.submit-due-runs]
+verify_jwt = false
